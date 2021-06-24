@@ -6,7 +6,7 @@
 Safety Precautions (Caffeine)
 ================================
 
-You are now able to run Hekate on your Nintendo Switch to launch the Atmosphere custom firmware. These next steps will make sure your being as careful as possible in regards to keeping your Switch from bricking and getting banned.
+You are now able to run Hekate on your Nintendo Switch to launch the Atmosphere custom firmware. These next steps will make sure you're being as careful as possible in regards to keeping your Switch from bricking and getting banned.
 
 .. note:: 
    If something goes wrong or you need help, check `troubleshooting </troubleshooting.html>`_.
