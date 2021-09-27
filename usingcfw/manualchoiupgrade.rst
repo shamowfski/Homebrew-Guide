@@ -282,7 +282,7 @@ Step 8: Recovering your BIS Keys
 9. Exit the menu
 10. Go back to the Main tab and tap **Reboot > RCM**
 11. Insert your SD Card into your PC
-12. Go to `www.sdsetup.com/biskeygen <https://www.sdsetup.com/biskeygen>`_
+12. Go to `bis.sdsetup.com <https://bis.sdsetup.com>`_
 13. Under **"Upload Hekate fuse_cached.bin",** click **Choose File**
 14. Browse for **"[SD]/backup/[8 character folder]/dumps/fuse_cached.bin"**
 15. Under **"Upload Hekate tsec_keys.bin",** click **Choose File**
