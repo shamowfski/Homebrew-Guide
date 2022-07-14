@@ -9,7 +9,7 @@ Before Starting
 This section of the guide will teach you basic information about terminology used, what you will be able to do after following this guide, and provide some warnings before you proceed.
 
 .. important:: 
-   This is a lot of info to take in, but if you are a complete noob to the Switch scene, you should seriously consider reading all of it.
+   This is a lot of info to take in, but if you are a complete noob to the WiiU scene, you should seriously consider reading all of it.
 
 ........
    
