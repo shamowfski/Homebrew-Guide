@@ -29,7 +29,7 @@ Step 0: What You Will Need
 
 * A device to send a payload
 
-    * This guide will cover options for Windows, OSX, Linux and Android, though note that options exist for Chromebooks and jailbroken iOS devices.
+    * This guide will cover options for Windows, macOS, Linux and Android, though note that options exist for Chromebooks and jailbroken iOS devices.
     * You can also use a dedicated payload sending device (a "dongle" or modchip) if you have one. Intructions will not be provided on how to use these as each device is different. Check the manufacturers website.
 
 * A USB Type C to A/Micro USB/USB Type C cable/adapter
@@ -41,7 +41,7 @@ Step 0: What You Will Need
 * A payload sending application **(Download and install one now)**
 
     * For Windows, you can use `TegraRcmGUI by eliboa and rajkosto. <https://github.com/eliboa/TegraRcmGUI/releases>`_
-    * For OSX and Linux, `you can use fusee-launcher by ReSwitched. <https://github.com/Cease-and-DeSwitch/fusee-launcher>`_
+    * For macOS and Linux, `you can use fusee-launcher by ReSwitched. <https://github.com/Cease-and-DeSwitch/fusee-launcher>`_
     * For Android, you can use `Rekado by MenosGrante. <https://github.com/MenosGrante/Rekado/releases>`_
     * If you don't already have one, after determining if your Switch is vulnerable to fusee-gelee, you can also choose to purchase any number of dedicated payload sending dongles, or purchase and install a modchip.
 
