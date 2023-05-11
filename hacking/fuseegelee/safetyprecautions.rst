@@ -27,12 +27,13 @@ By backing up your NAND (the Switch's internal memory), you will later be able t
     * If your SD card has less than ~32GB free space, Hekate will provide additional instructions every few minutes about pulling files off of your SD card so it can continue.
 
 6. If you weren't required to copy files during the backup process, once again copy the 'backup' folder off of your SD card and put it in a safe location on your PC. Delete the 'backup' folder on your SD card.
-7. Close the Backup menu, go back to the Home tab and tap **'Reboot > RCM'**
-8. Send the **"Lockpick_RCM.bin"** payload provided in the SDSetup download to your Switch (if you do not have this payload, you can obtain it `from GitHub <https://github.com/shchmue/Lockpick_RCM/releases/>`_).
-9. Select `Dump from SysNAND` and press Power to confirm; press again Power when finished to go back to the Lockpick menu
-10. Select poweroff from the menu once finished.
-11. Insert your SD card into your PC.
-12. Copy the **/switch/prod.keys** file to a safe location.
+7. Insert your SD card back into your Switch
+8. Close the Backup menu, go back to the Home tab and tap **'Reboot > RCM'**
+9. Send the **"Lockpick_RCM.bin"** payload provided in the SDSetup download to your Switch (if you do not have this payload, you can obtain it `from GitHub <https://github.com/shchmue/Lockpick_RCM/releases/>`_).
+10. Select `Dump from SysNAND` and press Power to confirm; press again Power when finished to go back to the Lockpick menu
+11. Select poweroff from the menu once finished.
+12. Insert your SD card into your PC.
+13. Copy the **/switch/prod.keys** file to a safe location.
 
 .. warning::
     It is highly recommended that you store these backups and keys in multiple locations (ex. cloud storage, external harddrive, etc) as they may be critical to restoring your Switch if anything goes wrong in the future.
